@@ -154,9 +154,9 @@ studyflow/
 **Usha Rani Kannaji**
 - 🎓 B.Tech ECE — RGUKT Srikakulam (CGPA: 8.98)
 - 📧 usharanikannaji822@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com)
-- 🌐 [Portfolio](https://portfolio.com)
-- 💻 [GitHub](https://github.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/usha-rani-kannaji-70aa01305/)
+- 🌐 [Portfolio](https://usharanikannaji.github.io/portifolio/)
+- 💻 [GitHub](https://github.com/usharanikannaji)
 
 ---
 
